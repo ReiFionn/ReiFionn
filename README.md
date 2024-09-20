@@ -1,10 +1,13 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hello!+I'm+Fionn!;This+is..;..my+Github!;:D;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hello!+I'm+Fionn!;This+is...;...my+Github!;:D;" alt="Typing SVG"/>
     </h1>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=reifionn&label=Profile%20views&color=0e75b6&style=flat" alt="reifionn" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/reifionn/count.svg" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 
