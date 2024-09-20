@@ -4,10 +4,7 @@
     </h1>
 </div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/reifionn/count.svg" />
-</p>
+<h3>I am studying BSc (Hons) in Applied Computing (Computer Forensics & Security) at SETU Waterford, Ireland!</h3>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -23,6 +20,11 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reifionn&theme=github_dark" alt="ReiFionn's GitHub Stats"/>
 </div>
+
+<h3 align="center"> 
+  Visitor count:<br>
+  <img src="https://profile-counter.glitch.me/reifionn/count.svg" />
+</h3>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
