@@ -7,10 +7,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reifionn&label=Profile%20views&color=0e75b6&style=flat" alt="reifionn" /> </p>
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
-<a href="https://linkedin.com/in/reifionn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reifionn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/reifionn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reifionn" height="30" width="40" /></a>
-<a href="reifionn@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="reifionn" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/reifionn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reifionn" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/reifionn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reifionn" height="30" width="40" /></a>
+    <a href="reifionn@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="reifionn" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -20,9 +21,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reifionn&theme=github_dark" alt="ReiFionn's GitHub Stats"/>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reifionn" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reifionn&layout=donut&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reifionn" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reifionn&layout=donut&langs_count=8&card_width=320" />
+    </a>
+</div>
