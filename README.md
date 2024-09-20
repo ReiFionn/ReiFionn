@@ -19,3 +19,5 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reifionn&theme=github_dark" alt="ReiFionn's GitHub Stats"/>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reifionn)](https://github.com/anuraghazra/github-readme-stats)
