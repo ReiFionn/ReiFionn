@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-<h3>I am studying BSc (Hons) in Applied Computing (Computer Forensics & Security) at SETU Waterford!</h3>
+<h3 align="center">I am studying BSc (Hons) in Applied Computing (Computer Forensics & Security) at SETU Waterford!</h3>
 
 <h3 align="center">Connect with me:</h3>
 
