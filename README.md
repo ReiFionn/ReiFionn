@@ -21,11 +21,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reifionn&theme=github_dark" alt="ReiFionn's GitHub Stats"/>
 </div>
 
-<h3 align="center"> 
-  Visitor count:<br>
-  <img src="https://profile-counter.glitch.me/reifionn/count.svg" />
-</h3>
-
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reifionn&theme=transparent" />
@@ -34,3 +29,8 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reifionn&layout=donut&langs_count=8&card_width=320&theme=transparent" />
     </a>
 </div>
+
+<h3 align="center"> 
+  Visitor count:<br>
+  <img src="https://profile-counter.glitch.me/reifionn/count.svg" />
+</h3>
