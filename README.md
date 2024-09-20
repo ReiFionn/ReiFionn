@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Fionn</h1>
-<h3 align="center">A passionate frontend developer from Ireland!</h3>
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hello!+I'm+Fionn!;This+is..;..my+Github!;" alt="Typing SVG"/>
+    </h1>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reifionn&label=Profile%20views&color=0e75b6&style=flat" alt="reifionn" /> </p>
 
