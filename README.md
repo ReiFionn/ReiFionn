@@ -22,5 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reifionn&show_icons=true&locale=en" alt="reifionn" /></p>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ReiFionn/ReiFionn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/ReiFionn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
