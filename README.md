@@ -4,13 +4,12 @@
     </h1>
 </div>
 
-<h3 align="center">I am studying BSc (Hons) in Applied Computing (Computer Forensics & Security) at SETU Waterford!</h3>
+<h3 align="center">I have a 1st class BSc (Hons) in Applied Computing (Computer Forensics & Security) from SETU Waterford!</h3>
 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/reifionn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reifionn" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/reifionn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reifionn" height="30" width="40" /></a>
     <a href="mailto:reifionn@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="reifionn" height="30" width="40" /></a>
 </p>
 
@@ -54,5 +53,5 @@
 
 <h3 align="center"> 
   Visitor count:<br>
-  <img src="https://profile-counter.glitch.me/reifionn/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=reifionn&label=Profile+Views&color=33FF33&style=flat" alt="Profile views"/>
 </h3>
